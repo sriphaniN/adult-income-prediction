@@ -25,5 +25,8 @@ Flask
 Html
 Pandas, Numpy
 pandas-profiling
-Deployment
+
+
+
+
 video link of depolyment: project1/prediction.webm
