@@ -23,8 +23,21 @@ Python
 Sklearn
 Flask
 Html
-Pandas, Numpy
+Pandas
+Numpy
 pandas-profiling
+
+
+Project Title: Adult Census Income Prediction
+
+
+Technologies: Machine Learning Technology
+
+
+Domain :Finance
+
+
+Project Difficulties level: Intermediate
 
 
 depolyment link: https://adult-income-prediction.netlify.app/
