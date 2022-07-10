@@ -27,6 +27,6 @@ Pandas, Numpy
 pandas-profiling
 
 
-
+depolyment link: https://adult-income-prediction.netlify.app/
 
 video link of depolyment: https://github.com/sriphaniN/adult-income-prediction/blob/4057050a051344dc3c16fb4a65cf1f0c00e0edde/project1/prediction.webm
