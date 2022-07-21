@@ -3,7 +3,7 @@
 
 Problem Statement:
 
-The dataset contains different features like age,gender,education,occupation,capital-gain,capital-loss,race,work per hour,country etc. The proposed approach will implement a different techniques and algorithms like Random Forest and Boosting Techniques. Random Forest performed well with 86% accuracy. After we have done it is deployed on Heroku platform.
+The dataset contains different features like age,gender,education,occupation,capital-gain,capital-loss,race,work per hour,country etc. The proposed approach will implement a different techniques and algorithms like Random Forest and Boosting Techniques. Random Forest performed well with 86% accuracy. 
 
 Approach used
   This is basically a binary classification problem where a person is classified into the >50K group or <=50K group
